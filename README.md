@@ -1,2 +1,3 @@
 # harsh-demo
-This is my first demo repo
+This is my first Git Repository!
+Author - Harsh Shah
